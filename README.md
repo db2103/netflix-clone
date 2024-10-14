@@ -1,3 +1,6 @@
+This project has been created by following the youtube tutorial by [`Code With Antonio`](https://www.youtube.com/watch?v=mqUN4N2q4qY&list=PLMwCFr4NqgMqeQs4i-bc5dxd2GJYLJZwx)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
